@@ -1,18 +1,18 @@
-title: Yuma Uchiumi
+title: Little Pocky
 description: >
-  Yuma Uchiumi's Homepage
+  Little Pocky's Homepage
 baseurl: ""
-url: "http://yumaloop.github.io"
+url: 
 
 author:
-  name: Yuma Uchiumi
-  email: yumaloop@gmail.com
-  github: yumaloop
-  twitter: yumaloop
-  facebook: yumauchiumi
-  instagram: uchiumiyuma
-  linkedin: yuma-uchiumi-699398151
-  disqus_shortname: https-yumaloop-github-io
+  name: Tom
+  email: 
+  github: 
+  twitter: 
+  facebook: 
+  instagram: 
+  linkedin: 
+  disqus_shortname: s
 
 text:
   sidebar_msg: Happy Everyday
