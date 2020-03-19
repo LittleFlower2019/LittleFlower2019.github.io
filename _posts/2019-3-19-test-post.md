@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test post
+title: Test Post
 lang: en
 categories:
     - test
