@@ -16,7 +16,7 @@ There are different way to define input parameters of method in Python.
 - Keyword Input
 
 
-##Fixed Location Input
+###Fixed Location Input
   
   The input variables have to pass in as same as their location in which the method's definition.
  
