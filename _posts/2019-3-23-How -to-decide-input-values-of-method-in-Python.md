@@ -30,7 +30,7 @@ show = func(10, 20)
 print(show)
 ```
 
-### Default Input
+## Default Input
 The input variable has been given a default value in case of missing pass a input variable.
 
 ```
