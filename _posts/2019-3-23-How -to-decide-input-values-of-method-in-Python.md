@@ -17,7 +17,8 @@ There are different way to define input parameters of method in Python.
 
 
 ###Fixed Location Input
-  
+
+##Fixed Location
   The input variables have to pass in as same as their location in which the method's definition.
  
  ```
