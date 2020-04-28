@@ -6,11 +6,13 @@ categories:
     - Python
 tags:
     - Env
- date: 2020-04-29-Description-Tendency-of-COVID-19-,-Phrase-1
 ---
 
 
-# Description Tendency of COVID-19, Phrase 1
+Description Tendency of COVID-19, Phrase 1
+
+date: 2020-04-29-Description-Tendency-of-COVID-19-,-Phrase-1
+
 “ The purpose of this python project based on COVID-19 dataset is to presenting my business intelligence skills through implementing programming language, programming design architecture,  data analysis and visualisation, data manipulation. ”
 
 This project, phrase 1, is merely establishing a fundamental programming framework and extension ability for further development. Therefore, a part of functionalities are not  completed. In term of visualisation, there is only presenting the historical tendency of  the confirmed patients number, which is wrapped up in a method, and it can be easily extended via adding methods due to the ideal of modular design and MVC architecture.
